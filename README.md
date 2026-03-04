@@ -166,7 +166,7 @@ data/
 tests/                # Unit and integration tests
 ```
 
-*For more information about the the layered system design please consult [our wiki](https://github.com/sbreganni/project-scrumit-sof.wiki.git)*
+*For more information about the the layered system design please consult [our wiki](https://github.com/hertie-dsa-26/project-scrumit/wiki/Layered-System-Design)*
 
 ### Execution Flow
 
